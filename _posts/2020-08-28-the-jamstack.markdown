@@ -11,10 +11,10 @@ JAM in JAMStack stands for: JavaScript API Markup. The JAMStack is a new way of 
 ## Why is the JAMStack important for a developer?
 
 The JAMStack is important in development for many reasons. The biggest ones are:
-- You get better performance since the files are pre-rendered and served over a CDN
-- There is higher sercurity because since there are no server-side processes, there is a smaller chance for attacks
-- It is cheaper because hosting static files is far cheaper than depending on a server
-- Developers have an easier experience because it is more focused on the front-end and easier to debug
+- You get better performance since the files are pre-rendered and served over a CDN.
+- There is higher sercurity because since there are no server-side processes, there is a smaller chance for attacks.
+- It is cheaper because hosting static files is far cheaper than depending on a server.
+- Developers have an easier experience because it is more focused on the front-end and easier to debug.
 
 # How can someone use the JAMStack?
 
