@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![logo](assets/logo.png)
 
 Hi my name is David Enciso and I was born and raised in Orem, UT. I come from a Hispanic background because my father is from Peru. I grew up speaking Spanish and visit Peru about once a year. I got married to the love of my life in 2017 and we have one son named Enzo who was born in April 2019. My passions, outside of coding, are soccer and video games. I've played soccer since I was four years old and have trained with professional teams in both Brazil and Peru. My favorite video games are Metal Gear Solid, Kingdom Hearts, and World of Warcraft.
 
