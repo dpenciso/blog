@@ -22,7 +22,7 @@ title: David Enciso
 email: dpenciso@msn.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog about my journey through DGM 3760
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dpenciso
 github_username:  dpenciso
