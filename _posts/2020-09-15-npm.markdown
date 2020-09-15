@@ -10,6 +10,7 @@ categories: homework
 NPM is short for Node Package Manager. According to nodejs.org, NPM is essentially two things:
 - First, an online repository for the publishing of open-source Node.js projects
 - Second, a command-line utility for interacting with said repository that aids in package installation, varsion management, and dependency management.
+
 In other words, NPM is a place where any developer can publish their software and where any developer can use that software. On top of that, NPM is free to use.
 
 # Why is NPM important?
@@ -18,7 +19,16 @@ NPM is important because the different software available to developers facilita
 
 # How do you use NPM?
 
-asdf
+In order to use NPM, you have to install it on your computer. From your computer's terminal you will type:
+    npm install npm -g
+This will globally install NPM to your computer so that you can use it anywhere. If you only want to install NPM in a specific folder, you would navigate to that folder in the terminal and type:
+    npm install npm
+To check what version of NPM and Node.js you have installed on your computer, simply type:
+    node -v
+    npm -v
+Downloading a package from NPM is simple as well. All you have to do is find the package you wish to install on npmjs.org and follow the instruction for that specific package. For example, if I wanted to install Bootstrap I would navigate to my project in the terminal and type:
+    npm install bootstrap
+
 
 # What is the difference between a package and a module?
 
