@@ -36,15 +36,13 @@ Downloading a package from NPM is simple as well. All you have to do is find the
 
     npm install bootstrap
 
-
-
-
 # What is the difference between a package and a module?
 
-asdf
+A package is a file or directory that is described by a package.json file. In order for a package to be published to the NPM registry it must contain a package.json file. The package.json file will include metadata about the package. A package is made up of modules. A module is a single file that has some functionality.
 
 # How can you use NPM on the frontend?
 
-asdf
+The uses of NPM on the frontend are limitless. You could use NPM to install something like React, a JavaScript famework that uses components. Or you could install Bootstrap which works with CSS and facilitates styling.
 
 # How can you use NPM on the backend?
+
