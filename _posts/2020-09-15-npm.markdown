@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "NPM"
+date:   2020-09-15 14:02:00 -0600
+categories: homework
+---
+
+# What is NPM?
+
+NPM is short for Node Package Manager. According to nodejs.org, NPM is essentially two things:
+- First, an online repository for the publishing of open-source Node.js projects
+- Second, a command-line utility for interacting with said repository that aids in package installation, varsion management, and dependency management.
+In other words, NPM is a place where any developer can publish their software and where any developer can use that software. On top of that, NPM is free to use.
+
+# Why is NPM important?
+
+NPM is important because the different software available to developers facilitates the development process. Perhaps the most important part of NPM is that you can specify all of your project's dependencies inside your package.json file. That means that anytime you or someone else needs to get started with your project, they can just run <code>npm install</code> and immediately have all of the dependencies installed.
+
+# How do you use NPM?
+
+asdf
+
+# What is the difference between a package and a module?
+
+asdf
+
+# How can you use NPM on the frontend?
+
+asdf
+
+# How can you use NPM on the backend?
