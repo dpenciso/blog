@@ -20,14 +20,23 @@ NPM is important because the different software available to developers facilita
 # How do you use NPM?
 
 In order to use NPM, you have to install it on your computer. From your computer's terminal you will type:
+
     npm install npm -g
+
 This will globally install NPM to your computer so that you can use it anywhere. If you only want to install NPM in a specific folder, you would navigate to that folder in the terminal and type:
+
     npm install npm
+
 To check what version of NPM and Node.js you have installed on your computer, simply type:
+
     node -v
     npm -v
+
 Downloading a package from NPM is simple as well. All you have to do is find the package you wish to install on npmjs.org and follow the instruction for that specific package. For example, if I wanted to install Bootstrap I would navigate to my project in the terminal and type:
+
     npm install bootstrap
+
+
 
 
 # What is the difference between a package and a module?
