@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Todo App"
+date:   2020-09-25 14:02:00 -0600
+categories: homework
+---
+
+![](todoapp.png)
+
+# How it works
+
+This is my ToDo web app. It work by first entering a todo in the textbox and selecting a category from the dropdown menu. After choosing a category, or adding your own through the textbox in the dropdown menu, you press the "Add" button to add it to your list.
+
+All todos will two button on the right side: a checkbox, symbolizing done, and a trash can, symbolizing delete. When the checkbox is clicked, that todo will be crossed out and slightly darkened, symboizing that it is done. When the trash can is clicked, the todo will be deleted from the list.
+
+If you only want to see the todos that you have yet to complete, simply click the "Hide Done Todos" button located between the list and the textbox. If you want to see all of your todos after you have hidden your done todos, simply click the "Show Done Todos" button.
+
+# Why the design
+
+I designed this ToDo app the way I did for a couple reasons. The first has to do with the color. I, personally, enjoy a dark mode on the apps that I use. I find it easier on my eyes and that makes me able to spend more time using it. I picked the dark pink color because I thought it would stand out and show the user which parts of the app would be clickable.
+
+The second reason is that I wanted simplicity. Too many apps overcomplicate things with extra images, buttons, or text. All I wanted for this app was for the user to be able to track their todos and see what category they fell under. I thought that hiding done todos would help in that mission so those two buttons were added. I like the white space around the todos and that the todo boxes have the same background color as the body.
+
+# The challenges
+
+I faced quite a few challenges while developing this app. The biggest of these challenges was to implement local storage. I spent more hours than I would like to admit trying to figure it out and after all that time, I still couldn't get the style of a completed todo to be saved locally. However, I did figure out how to store the todo and its category so those will remain the same through a refresh. The way I figured it out was to search up MDN and every other article I could find on local storage.
+
+# What would I do differently?
+
+The next time I do a ToDo app, I would definitely format my code around local storage. Waiting till the end to implement local storage was hard for me because I didn't quite understand how to make it work in the code I had already written since every article I read had a different way of doing it than would work with my code.
