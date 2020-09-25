@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Todo App"
-date:   2020-09-25 14:02:00 -0600
+date:   2020-09-25 12:02:00 -0600
 categories: homework
 ---
 
