@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Node.js"
+date:   2020-10-25 12:02:00 -0600
+categories: homework
+---
+
+# What is Node.js and when should I use it?
+
+Node JS, simply put, is a runtime environment for JavaScript that executes code outside of the web browser. It may sound intimidating at first since it is back-end instead of front-end like most JavaScript you have probably written, but fear not. If you know JavaScript, you basically know Node JS.
+
+Node JS is great for applications that you want to maintain a consistent connection from the browser back to the server.
+
+# How does Node.js differ from JavaScript in the browser?
+
+A couple ways that Node JS is different from your typical JavaScript in the browser is that JavaScript in the browser can manipulate the DOM (Document Object Model) by using document, getElementById, querySelector, etc. This makes JavaScript more useful when making a client side web application. Since Node JS doesn’t run in the browser, it cannot manipulate the DOM with commands like querySelector or getElementById. Instead Node JS
+
+# What is Express.js?
+
+Express.js is a back-end framework for Node.js. Frameworks for front-end applications, Express.js simplifies the development process and makes it easier to write and develop applications.
+
+# Why would a developer choose to use a Templating Engine?
+
+There are a couple reason a developer would choose to use a templating engine. The first is that it makes one’s application dynamic. By using objects stored with the data you want displayed, you can simply change that object or add a new object to add to your application instead of having to change the source code itself. The second reason is that it as better performance with compiled files. It will essentially save time in rendering the page and boost the page’s speed.
+
+# What Templating Engine did I use?
+
+I chose to use handlebars because it was mentioned in class and I figured there was no “wrong” templating engine. Looking back, I would have used something that is a little more modern like Pug instead and tried to see how that worked.

@@ -5,7 +5,7 @@ date:   2020-09-25 12:02:00 -0600
 categories: homework
 ---
 
-![](/images/todoapp.jpg)
+![image of app](/images/todoapp.jpg)
 
 # How it works
 
