@@ -44,5 +44,3 @@ A package is a file or directory that is described by a package.json file. In or
 
 The uses of NPM on the frontend are limitless. You could use NPM to install something like React, a JavaScript famework that uses components. Or you could install Bootstrap which works with CSS and facilitates styling.
 
-# How can you use NPM on the backend?
-

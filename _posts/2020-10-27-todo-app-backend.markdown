@@ -17,11 +17,11 @@ The front end connects to the backend through EJS reaching out to the endpoints 
 
 # Why did I choose the design I did?
 
-I chose my design because it seemed like the path of least resistance. My initial ToDo app wasn’t well structured and I would have to restructure a lot in order to get it to work. With the time I had to do this assignment, I decided to do the easiest thing for me.
+I chose my design because it seemed nice to be able to interact with both the front-end and back-end at the same time through the templating engine. My initial ToDo app wasn’t well structured and I would have to restructure a lot in order to get it to work. Working with both at the sime time, seemed like the most efficient thing to do.
 
 # How did you model you data and why?
 
-I modeled the data by taking the name of the ToDo, its category, and the date it was posted and storing those in the database. I did it that way because it seemed the easiest way to do it.
+I modeled the data by taking the name of the ToDo, its category, and the date it was posted and storing those in the database. I did it that way because that way all the information would be stored together.
 
 # Why is documentation important?
 
