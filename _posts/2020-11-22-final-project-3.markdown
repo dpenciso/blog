@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Final Project Week 3"
-date:   2020-22-06 14:02:00 -0600
+date:   2020-11-22 14:02:00 -0600
 categories: homework
 ---
 
