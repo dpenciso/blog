@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Project Week 5"
+title: "Final Project Week 6"
 date: 2020-12-13 14:02:00 -0600
 categories: homework
 ---
