@@ -11,4 +11,4 @@ Prior to entering the Web and App Development program at UVU, I had no coding ex
 
 My favorite part of Web and App Development is that I can create anything. Coding is so powerful and there are no limitations on what I can do with it. As long as I put the time in to learning any software or langauge, I can create anything.
 
-I hope to further advance my knowledge of JavaScript in this class and come closer to mastering the language. From talking to other developers, JavaScript is one of the most popular and in-demand languages right now so I realy want to master it. 
+I hope to further advance my knowledge of JavaScript and it's frameworks. I'm currently doing an internship at a software company called Gigg Inc. I feel like I have been able to make a lot of connection between that experience and the things I have learned in school so I would like to continue to learn things that I can apply to my internship and future jobs.
