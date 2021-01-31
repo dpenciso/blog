@@ -28,7 +28,7 @@ asdf
 
 asdf
 
-# Examples
+# Examples:
 
 ### A rebase merge
 
@@ -76,7 +76,7 @@ asdf
 
 asdf
 
-# Examples
+# Examples:
 
 ### Git reset
 
