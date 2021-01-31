@@ -9,34 +9,38 @@ categories: homework
 
 # What is git rebase?
 
-asdf
+As mentioned in a previous post, Git is used for version control. In essence, it is a journal for you code. With Git you can choose to write code starting from a certain part in it's history and create what is called a branch. You can then merge your branch into the original code. Rebasing is the process of combining those commits to a new base commit. Instead of having a branch off of where you branched off, when rebased, the code of the branch ond original code now have the same base.
 
 # What are some advantages and disadvantages of git rebase?
 
 
 ### Advantages:
 
-- asdf
-- asdf
+- Git rebase makes the history of your code linear.
+- Makes debugging easier since there is a clean history.
 
 ### Disadvantages:
 
-- asdf
-- asdf
+- Git rebase can change the history of commits and make it harder to see the true past versions of files
+- Git rebase makes it more difficult to solve conflicts since they must all be solved individually.
 
 # When shouldn't you use git rebase?
 
-asdf
+You should not use git rebase on commits that exist outside of the repository on which you are working. This would cause collaborators a lot grief if they are working on another commit, they would have to re-merge their work and re-pull.
 
 # Examples:
 
 ### A rebase merge
 
-asdf
+![image of app](https://dpenciso.github.io/blog/images/rebase.png)
 
 ### An interactive rebase merge
 
-asdf
+![image of app](https://dpenciso.github.io/blog/images/rebase-i-1.png)
+
+![image of app](https://dpenciso.github.io/blog/images/rebase-i-2.png)
+
+![image of app](https://dpenciso.github.io/blog/images/rebase-i-3.png)
 
 ### When you shouldn't rebase with a remote repo
 
