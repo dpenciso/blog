@@ -85,15 +85,20 @@ You would use <code>reset</code> when you realize you have made some bad commits
 ### Git reset
 
 Hard
+
 ![image of app](https://dpenciso.github.io/blog/images/reset-hard.png)
 
 Mixed
+
 ![image of app](https://dpenciso.github.io/blog/images/reset-mixed.png)
 
 Soft
+
 ![image of app](https://dpenciso.github.io/blog/images/reset-soft.png)
 
 ### Git checkout
+
+![image of app](https://dpenciso.github.io/blog/images/checkout.png)
 
 #### Commit
 
