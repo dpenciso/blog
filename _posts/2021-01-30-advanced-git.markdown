@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Git"
+title: "Advanced Git"
 date: 2021-01-29 14:02:00 -0600
 categories: homework
 ---
 
-# Git Rebase
+## Git Rebase
 
-## What is git rebase?
+# What is git rebase?
 
 asdf
 
-## What are some advantages and disadvantages of git rebase?
+# What are some advantages and disadvantages of git rebase?
 
 
 ### Advantages:
@@ -24,11 +24,11 @@ asdf
 - asdf
 - asdf
 
-## When shouldn't you use git rebase?
+# When shouldn't you use git rebase?
 
 asdf
 
-## Examples
+# Examples
 
 ### A rebase merge
 
@@ -42,9 +42,9 @@ asdf
 
 asdf
 
-# Git Reset, Checkout, and Revert
+## Git Reset, Checkout, and Revert
 
-## What is git reset?
+# What is git reset?
 
 asdf
 
@@ -60,23 +60,23 @@ asdf
 
 adsf
 
-## What is git checkout?
+# What is git checkout?
 
 asdf
 
-## What is git revert?
+# What is git revert?
 
 asdf
 
-## In what ways are these commands the same and what ways are they different?
+# In what ways are these commands the same and what ways are they different?
 
 asdf
 
-## When would you use reset, checkout, or revert?
+# When would you use reset, checkout, or revert?
 
 asdf
 
-## Examples
+# Examples
 
 ### Git reset
 
@@ -96,16 +96,16 @@ asdf
 
 asdf
 
-# Git Submodules
+## Git Submodules
 
-## What are git submodules?
-
-asdf
-
-## When would you use a submodule?
+# What are git submodules?
 
 asdf
 
-## What are the advantages and disadvantages of git submodules?
+# When would you use a submodule?
+
+asdf
+
+# What are the advantages and disadvantages of git submodules?
 
 asdf
