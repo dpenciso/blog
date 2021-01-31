@@ -108,18 +108,18 @@ Soft
 
 ### Git Revert
 
-asdf
+![image of app](https://dpenciso.github.io/blog/images/revert.png)
 
 ## Git Submodules
 
 # What are git submodules?
 
-asdf
+Git submodules are repositories inside of other repositories. They don't seem to be too common but who knows, you might run into one some day. In order to clone a repository and its submodules, you must add <code>--recurse-submodules</code> to the end of your <code>git clone</code> command.
 
 # When would you use a submodule?
 
-asdf
+You would use a submodule in order to keep the commits of your project separate from the repository you are cloning into your project.
 
 # What are the advantages and disadvantages of git submodules?
 
-asdf
+The advantages to having submodules in your repository are that you can work on different part of the project and have commits dedicated only to that submodule. The disadvantages are that it does add quite a bit of complexity to your repository which in turn makes it harder to use for those with whom you are collaborating.
