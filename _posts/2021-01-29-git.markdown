@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Git"
+date: 2021-01-29 14:02:00 -0600
+categories: homework
+---
+
+# What is Git?
+
+Git is a version control system that allows developers to keep track of the history and changes of their files. It is especially helpful when used in a team because it makes collaborating on files more seamless than simply downloading and copying code since through Git you can track history. In order to use Git's full potential, one must understand how to use the command line in order to properly acess and change files.
+
+# What is GitHub?
+
+I like to think of GitHub as a way to visualize files you create and edit using Git. GitHub uses Git and is a hosting software for those files. In addition to using Git, it has it's own features such as being able to view, pull, fork, and clone other people's repositories of files.
+
+# What is the difference between Git and GitHub?
+
+The differece between Git and GitHub is really that Git is the version control system, and GitHub is the hosting service. Git can exist without GitHub, but GitHub cannot exist without Git. GitHub is supposed to facilitate the say you use Git, that is, make it easier and more visual.
