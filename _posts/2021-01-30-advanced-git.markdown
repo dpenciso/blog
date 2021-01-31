@@ -98,15 +98,13 @@ Soft
 
 ### Git checkout
 
-![image of app](https://dpenciso.github.io/blog/images/checkout.png)
-
 #### Commit
 
-asdf
+![image of app](https://dpenciso.github.io/blog/images/commit.png)
 
 #### File
 
-asdf
+![image of app](https://dpenciso.github.io/blog/images/file.png)
 
 ### Git Revert
 
