@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NPM"
-date:   2020-09-15 14:02:00 -0600
+date:   2021-02-19 14:02:00 -0600
 categories: homework
 ---
 
@@ -13,9 +13,9 @@ NPM is short for Node Package Manager. According to nodejs.org, NPM is essential
 
 In other words, NPM is a place where any developer can publish their software and where any developer can use that software. On top of that, NPM is free to use.
 
-# Why is NPM important?
+# What benefits does NPM provide and why is it important?
 
-NPM is important because the different software available to developers facilitates the development process. Perhaps the most important part of NPM is that you can specify all of your project's dependencies inside your package.json file. That means that anytime you or someone else needs to get started with your project, they can just run <code>npm install</code> and immediately have all of the dependencies installed.
+NPM is beneficial and important because the different software available to developers facilitates the development process. Perhaps the most important part of NPM is that you can specify all of your project's dependencies inside your package.json file. That means that anytime you or someone else needs to get started with your project, they can just run <code>npm install</code> and immediately have all of the dependencies installed.
 
 # How do you use NPM?
 
@@ -44,3 +44,16 @@ A package is a file or directory that is described by a package.json file. In or
 
 The uses of NPM on the frontend are limitless. You could use NPM to install something like React, a JavaScript famework that uses components. Or you could install Bootstrap which works with CSS and facilitates styling.
 
+# What are the 3 components of NPM?
+
+According to the NPM docs, the three components of NPM are:
+
+- The website
+- The Command Line Interface (CLI)
+- The registry
+
+The NPM website is used to discover packages, create profiles, and manage other parts of your NPM experience
+
+The CLI runs from the terminal on your computer and it is how developers download and install packages.
+
+The registry is a large public database of JavaScript software and the meta-information surrounding it.
