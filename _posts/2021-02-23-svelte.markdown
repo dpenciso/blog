@@ -5,19 +5,17 @@ date:   2021-02-23 14:02:00 -0600
 categories: homework
 ---
 
-# Svelte
-
 After watching the YouTube video [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao&feature=emb_title), these are three ideas that stood out to me:
 
-1. Truly reactive code is just better.
+# Truly reactive code is just better.
 
 Too many times throughout my development career, I have coded lines upon lines of code without thinking of the load being put on the machine. Rich Harris truly puts value into Svelte by comparing it to other frameworks like React, Vue, and Angular and the way that they run their code. With every framework I have worked with up to this point, the entirety of a function or multiple functions is called when one thing is changed. That is not truly reactive. By only updating the affected variables in the code, Svelte truly is reactive.
 
-2. Svelte, like the modern era, is attempting to be minimalistic.
+# Svelte, like the modern era, is attempting to be minimalistic.
 
 It seems to me that, compared to when I was growing up, people have far less things decorating their homes. This concept of clean and minimalistic is stylish seems to be taking over. Svelte is no exception to this rule. From the examples I saw in this video, a noticiblely less amount of code was used to accomplish a task compared to the use of a framework like React. In my experience, the cleaner and less code, the better. That seems to be the logic behind Svelte. Yes, the JavaScript output is quite complex. However, that is a plus of Svelte. It does the dirty work for you. Svelte feels modern to me.
 
-3. Svelte is intuitive.
+# Svelte is intuitive.
 
 Two examples from Rich Harris' presentation stand out to me: scoped styles, and missing <code>alt</code> tags. Having used React quite a bit, having global styles can often be burdensome. I always seem to end up with lots of classes and even more lines of code. Svelte gives you the ability to scope your CSS. I am aware that React has this feature as well, however, it never seemed like the way React wanted you to work with CSS. Scoped CSS is Svelte's primary way of doing CSS and it makes sense.
 
