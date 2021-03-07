@@ -9,21 +9,27 @@ categories: homework
 
 # How to declare a function.
 
-There are three ways basic ways to declare a function:
+There are different ways to declare a function. Here are three:
 
 - <code>function name() {
-    return value
+
+    return something
+
     }
     </code>
 
-- <code>function name() {
-    return value
-    }
+- <code>const name = function() {
+
+    return something
+
+}
     </code>
 
-- <code>function name() {
-    return value
-    }
+- <code>const name = () => {
+
+    return something
+    
+}
     </code>
 
 # How to return a value from a funciton.
