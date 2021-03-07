@@ -11,23 +11,38 @@ categories: homework
 
 There are different ways to declare a function. Here are three:
 
-- <code>function name() {}</code>
+```
+function name() {}
+```
 
-- <code>const name = function() {}</code>
+```
+const name = function() {}
+```
 
-- <code>const name = () => {}</code>
+```
+const name = () => {}
+```
 
 # How to return a value from a funciton.
 
 To return a value from a function, put <code>return</code> followed by the thing you want to return inside of the funtion like so:
 
-- <code>const name = () => {
-    let x = 1 return x
-    }</code>
+```
+const name = () => {
+    let x = 1
+    return x
+    }
+```
 
 # How to accept a value into a function.
 
-adsf
+In order to accept a value into a function, you must put the value inside of the parentheses like so:
+
+```
+const name = (x) => {
+    return x + 1
+}
+```
 
 ## Callbacks
 
