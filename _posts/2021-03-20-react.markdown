@@ -1,0 +1,49 @@
+---
+layout: post
+title: "React"
+date: 2021-03-20 14:02:00 -0600
+categories: homework
+---
+
+## React
+
+# What is react and who developed it?
+
+React is a front-end JavaScript library that is primarily used to build single-page applications. React was developed by Facebook in May 2013. It was created so that developers could create large web applications that can change and update data without having to reload or refresh the page. It does this by managing someting called the state.
+
+# What is state?
+
+State is a built in object unique to React. The state object is where you store values that belong to your component. When the state object value changes, the component rerenders and thus does not need to refresh.
+
+# What is the difference between a functional component and a class component?
+
+The most obvious difference between a functional and class component is the syntax. A functional component looks like:
+
+```
+const example = () => {
+    return <p>Hello</p>
+
+}
+```
+
+A class component looks like this:
+
+```
+class example extends React.Component {
+    render() {
+        return <p>Hello</p>
+    }
+}
+```
+
+Functional components look just like their name, a function. They are quite simple to declare and in my opinion, look best. Class components require you to extend from React and must have a render function.
+
+From my experience, modern React is leaning toward functional components, especially since the introduction of hooks, which make it very easy to manage state. I would use functional components in almost all cases. The case in which I would use class components would be if I was coming in to a code base that already had class components built in.
+
+# What is JSX?
+
+JSX stands for JavaScript XML and essentially make it simpler to write HTML in React components. Although JSX looks quite similar to HTML, it actually produces React elements that can be rendered in components.
+
+# What does it mean to "lift state up"?
+
+Lifting state up in React simply means a parents state will be the source of state for its children instead of every component having their own local state.
